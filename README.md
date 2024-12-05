@@ -43,7 +43,7 @@ Este projeto é uma aplicação web que permite que gestores e usuários cadastr
    Clone o repositório para sua máquina local:
 
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/Arthurflsimao/projeto-minsait.git
    cd projeto-minsait
    ```
 
